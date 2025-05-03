@@ -1,7 +1,7 @@
 # Engineerign-Tranparent-Skill
 Here’s a list of **transparent skills** (i.e., clearly observable, measurable, and demonstrable) that are valuable for a **software engineer** in development. These skills can typically be shown through projects, portfolios, codebases, contributions, or daily work habits:
 
----
+
 
 ### 🧠 **Core Programming Skills**
 
